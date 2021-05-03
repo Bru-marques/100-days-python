@@ -18,4 +18,14 @@ Mastering Python by building 100 projects in 100 days.Learn to build websites, g
 <li>day-4-1-exercise - Who's Paying</li>
 <li>day-4-2-exercise - Reasure Map</li>
 <li>day-4-project :computer: - Rock Paper Scessors</li>
+<li>day-5-1-exercise - Average Height</li>
+<li>day-5-2-exercise - Adding Evens</li>
+<li>day-5-3-exercise - FizzBuzz</li>
+<li>day-5-project :computer: - Password Generator</li>
+<li>day-6-1-exercise - Reeborg's World | Hurdle</li>
+<li>day-6-project :computer: - Reeborg's World | Escaping the maze</li>
+<li>day-7-project-diagram :notebook: - Hangman </li>
+<li>day-7-project-hangman_art- Hangman </li>
+<li>day-7-project-hangman_words- Hangman </li>
+<li>day-7-project :computer: - Hangman </li>
 </ul>
