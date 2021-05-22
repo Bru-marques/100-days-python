@@ -28,4 +28,6 @@ Mastering Python by building 100 projects in 100 days.Learn to build websites, g
 <li>day-7-project-hangman_art- Hangman </li>
 <li>day-7-project-hangman_words- Hangman </li>
 <li>day-7-project :computer: - Hangman </li>
+<li>day-8-1-exercise - Prime Number Check</li>
+<li>day-8-project :computer: - Ceasar cipher </li>
 </ul>
